@@ -1,3 +1,8 @@
 .title-image {
     width: 100%;
+position: absolute;
+}
+
+.navigation--panel {
+    padding: 3% 20% 2%;
 }
