@@ -1,3 +1,7 @@
+#title--page {
+    background-image: url(images/titleimage.jpg);
+}
+
 .title-image {
     width: 100%;
 position: absolute;
@@ -5,4 +9,14 @@ position: absolute;
 
 .navigation--panel {
     padding: 3% 20% 2%;
+}
+
+.title--content {
+    padding: 15rem 75rem 15rem 5rem;
+}
+
+.title--content h1{
+    color: white;
+    font-size: 7rem;
+    line-height: 1.5;
 }
