@@ -16,7 +16,11 @@ position: absolute;
 }
 
 .title--content h1{
-    color: white;
+    color: grey;
     font-size: 7rem;
     line-height: 1.5;
+    padding-left: 3rem;
 }
+
+
+
