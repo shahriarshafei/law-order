@@ -12,14 +12,15 @@ position: absolute;
 }
 
 .title--content {
-    padding: 15rem 75rem 15rem 5rem;
+    padding: 15rem 15rem 15rem 5rem;
 }
 
 .title--content h1{
     color: whitesmoke;
     font-size: 7rem;
     line-height: 1.5;
-    padding-left: 3rem;
+    padding-left: 5rem;
+    width: 35rem;
 }
 
 
